@@ -7,18 +7,16 @@ Apaixonado por jogos além de desenvolvedor, contribuo para a comunidade técnic
 Fique a vontade pra entrar em CONTATO caso tenha alguma sugestão ou crítica construtiva, muito obrigado pela sua atenção.
 
 ### Tecnologias
-<!--ts-->
-   * ##### CSharp.Net
-   * ##### Vb.Net
-   * ##### .NET Framework
-   * ##### Git / Github
-   * ##### MS SQL Server
-   * ##### MariaDB / MySQL / SQL
-   * ##### MVC
-   * ##### Design Patterns
-   * ##### HTML / CSS
-   * ##### GDI+ / SFML / OpenTK / OpenGL
-<!--te-->
+   * CSharp.Net
+   * Vb.Net
+   * .NET Framework
+   * Git / Github
+   * MS SQL Server
+   * MariaDB / MySQL / SQL
+   * MVC
+   * Design Patterns
+   * HTML / CSS
+   * GDI+ / SFML / OpenTK / OpenGL
 
 
 
