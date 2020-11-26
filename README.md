@@ -8,16 +8,16 @@ Fique a vontade pra entrar em CONTATO caso tenha alguma sugestão ou crítica co
 
 ### Tecnologias
 <!--ts-->
-   * ##### [CSharp.Net](#CSharp.Net)
-   * ##### [Vb.Net](#Vb.Net)
-   * ##### [.NET Framework](#.NET-Framework)
-   * ##### [Git / Github](#Git/Github)
-   * ##### [MS SQL Server](#MS-SQL-Server)
-   * ##### [MariaDB / MySQL / SQL](#MariaDB/MySQL/SQL)
-   * ##### [MVC](#MVC)
-   * ##### [Design Patterns](#Design-Patterns)
-   * ##### [HTML / CSS](#HTML/CSS)
-   * ##### [GDI+ / SFML / OpenTK / OpenGL](#GDI+/SFML/OpenTK/OpenGL)
+   * ##### CSharp.Net
+   * ##### Vb.Net
+   * ##### .NET Framework
+   * ##### Git / Github
+   * ##### MS SQL Server
+   * ##### MariaDB / MySQL / SQL
+   * ##### MVC
+   * ##### Design Patterns
+   * ##### HTML / CSS
+   * ##### GDI+ / SFML / OpenTK / OpenGL
 <!--te-->
 
 
