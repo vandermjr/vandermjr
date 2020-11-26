@@ -1,4 +1,4 @@
-### BEM VINDO! 👋
+#### BEM VINDO!
 
 Meu nome é Vanderlei Monfredini Jr., tenho 38 anos, sou desenvolvedor de software a mais de 10 anos, atualmente atuo ativamente com desenvolvimento de software e com ênfase em tecnologias relacionadas a plataforma .NET Framework.
 
