@@ -1,16 +1,29 @@
 ### BEM VINDO! 👋
 
-<!--
-**vandermjr/vandermjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vanderlei Monfredini Jr., tenho 38 anos, sou desenvolvedor de software a mais de 10 anos, atualmente atuo ativamente com desenvolvimento de software e com ênfase em tecnologias relacionadas a plataforma .NET Framework.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por jogos além de desenvolvedor, contribuo para a comunidade técnicas .NET de forma totalmente GRATUITA através grupos e fóruns além da plataforma git.
+
+
+Fique a vontade pra entrar em CONTATO caso tenha alguma sugestão ou crítica construtiva, muito obrigado pela sua atenção.
+
+
+TECNOLOGIAS
+
+C#.Net 🖤
+Vb.Net
+DOTNET Framework
+SQL
+MS SQL Server
+MySQL / MariaDB
+MVC
+Design Patterns
+HTML / CSS
+Git / Github
+GDI+ / SFML / OpenTK / OpenGL
+
+
+
+
+2020
